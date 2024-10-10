@@ -9,9 +9,23 @@
 2- Si no tenim un readme i volem crear-lo desde GitBash, fem la seguent comanda: 
 <pre> git add readme.md </pre>
 
-git commit -m "nom"
-
-git push -u origin main 
-
+3- Quan ja tenim fet el document i hem posat la informació que volem, posem el seguent per actualitzar el document per afegir les actualitzacions al arxiu: 
+\```bash
 git add <nom arixu>
 
+\```
+git commit -m "nom"
+\```bash
+git push -u origin main 
+\```
+
+
+
+
+\```bash
+
+\```
+
+git status
+
+## 2- Apunts Markdown
